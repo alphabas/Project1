@@ -58,7 +58,7 @@ class Login extends CI_Controller {
             'SEXE'=>$sexe, 
             'PROFIL'=>3,
             'PASSWORD'=>$password,
-            'TELEPHONE_NUMBER'=>$telephone,
+            'TELEPHONE'=>$telephone,
           );
          
 
